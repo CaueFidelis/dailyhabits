@@ -4,3 +4,4 @@
 
 - Fastify
 - Prisma
+- CORS
