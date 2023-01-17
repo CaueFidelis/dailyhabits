@@ -3,3 +3,4 @@
 ### Tecnologias
 
 - Fastify
+- Prisma
