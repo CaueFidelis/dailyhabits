@@ -1,10 +1,10 @@
-<div align='center'>
+<div align='center' style="margin:20px">
   <img alt='Logo PokeApp' src='./web/src/assets/logo.svg' style='margin: 0 auto'/>
 </div>
-<div align='center' style="margin-bottom:48px; margin-top:20px;">
-<a href="#💻-demonstração-do-site">Demonstração do Site</a>
-• <a href="#📱-demonstração-do-app">Demonstração do App</a>
-• <a href="#👩‍💻-tecnologias">Tecnologias</a>
+<div align='center' style="margin:48px">
+  <a href="#-demonstração-do-app">Demonstração do Site</a>
+  • <a href="#-demonstração-do-app">Demonstração do App</a>
+  • <a href="#-tecnologias">Tecnologias</a>
 </div>
 
 ### 📖 Sobre
