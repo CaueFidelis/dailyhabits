@@ -1,5 +1,10 @@
-<div align='center' style="margin-bottom:48px">
+<div align='center'>
   <img alt='Logo PokeApp' src='./web/src/assets/logo.svg' style='margin: 0 auto'/>
+</div>
+<div align='center' style="margin-bottom:48px; margin-top:20px;">
+<a href="#💻-demonstração-do-site">Demonstração do Site</a>
+• <a href="#📱-demonstração-do-app">Demonstração do App</a>
+• <a href="#👩‍💻-tecnologias">Tecnologias</a>
 </div>
 
 ### 📖 Sobre
@@ -23,8 +28,8 @@ Tem o objetivo de que o usuário cadastre Hábitos, coloque a recorrência e o t
 
 <div align='center'>
   <img alt='Demonstração do Site' src='./.github/demo_mobile1.png' style='margin: 0 auto'/>
-  <img alt='Demonstração do Site' src='./.github/demo_mobile2.png' style='margin: 0 auto'/>
   <img alt='Demonstração do Site' src='./.github/demo_mobile3.png' style='margin: 0 auto'/>
+  <img alt='Demonstração do Site' src='./.github/demo_mobile2.png' style='margin: 0 auto'/>
 </div>
 
 <br>
